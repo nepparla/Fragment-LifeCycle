@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentLife</string>
+    <string name="heading">Fragment LifeCycle using two Fragments</string>
+    <string name="frag1_btn">Fragment 1</string>
+    <string name="frag2_btn">Fragment 2</string>
+    <string name="frag1_text">Fragment 1</string>
+    <string name="frag2_text">Fragment 2</string>
+
+</resources>
